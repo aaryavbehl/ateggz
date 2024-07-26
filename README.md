@@ -1,0 +1,2 @@
+# ateggz
+My gaming website
